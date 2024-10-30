@@ -1,0 +1,11 @@
+Service repos:
+
+middleware - sb-middleware (https://github.com/Stock-Binger/sb-middleware)
+gateway - sb-gateway (https://github.com/Stock-Binger/sb-gateway)
+ui - sb-ui (https://github.com/Stock-Binger/sb-ui)
+app - sb-app (https://github.com/Stock-Binger/sb-app)
+infra - sb-infra (https://github.com/Stock-Binger/sb-infra)
+customer - sb-subscriptions (https://github.com/Stock-Binger/sb-customer)
+api spec - sb-openapi-spec (https://github.com/Stock-Binger/sb-openapi-spec)
+
+sb-middleware - Includes security, Distributed Config Server and Distributed service discovery.
